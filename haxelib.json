@@ -1,0 +1,13 @@
+{
+    "name": "hotml",
+    "url" : "https://github.com/jeremyfa/hotml/",
+    "license": "MIT",
+    "tags": ["js", "javascript", "live", "hot", "reload"],
+    "description": "Hot reload for Haxe + js targets",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "Fork KhaHotReload and try to create a standard haxe library",
+    "contributors": ["jeremyfa"],
+    "dependencies": {}
+  }
+  
